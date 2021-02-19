@@ -1,0 +1,4 @@
+#!/usr/bin/zsh
+zsh <<EFO
+wine /home/kusime/Game/Death/deadcells.exe
+EFO
